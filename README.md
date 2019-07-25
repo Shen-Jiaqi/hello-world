@@ -1,2 +1,1 @@
-# hello-world
-初步使用github
+System.Out.println("Hello,World!");
